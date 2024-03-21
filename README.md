@@ -34,5 +34,7 @@ This repository containing implementations and explanations of various DSA in Ko
 
 - [Dynamic Programming](https://github.com/samadtalukder/DSA-In-Kotlin/tree/master/src/main/kotlin/dynamic_programming)
 - [LeetCode](https://github.com/samadtalukder/DSA-In-Kotlin/tree/master/src/main/kotlin/leetcode)
+  - 217. Contains Duplicate[⌝](https://github.com/samadtalukder/DSA-In-Kotlin/blob/master/src/main/kotlin/leetcode/Contains_Duplicate_217.kt)
+  - 344. Reverse String[⌝](https://github.com/samadtalukder/DSA-In-Kotlin/blob/master/src/main/kotlin/leetcode/Reverse_String_344.kt)
 - [Others](https://github.com/samadtalukder/DSA-In-Kotlin/tree/master/src/main/kotlin/others)
 
