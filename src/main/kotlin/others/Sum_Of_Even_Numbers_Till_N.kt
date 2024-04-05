@@ -1,4 +1,4 @@
-package com.samad_talukder.data_structure.arrays
+package com.samad_talukder.others
 /*
 * You have been given a number 'N'. Your task is to find the sum of all even numbers
 * from 1 to 'N' (both inclusive).
@@ -19,7 +19,7 @@ fun main() {
 
     val even = 9
     println(calculateEvenSum(even))
-    println(calculateEvenSumUsingWhile(even))
+    //println(calculateEvenSumUsingWhile(even))
 }
 
 fun calculateEvenSum(even: Int): Int {
