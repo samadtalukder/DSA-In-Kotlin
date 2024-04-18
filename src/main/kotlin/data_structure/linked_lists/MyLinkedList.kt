@@ -92,7 +92,7 @@ class MyLinkedList {
         val prev = findAtIndex(index - 1)
 
         val newNode = Node(value)
-        newNode?.next = prev?.next
+        newNode.next = prev?.next
         prev?.next = newNode
 
         length++
