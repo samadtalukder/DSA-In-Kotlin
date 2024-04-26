@@ -1,5 +1,7 @@
 package com.samad_talukder.data_structure.stacks
 
+import java.util.LinkedList
+
 interface Stack<Element> {
     fun push(element: Element)
     fun pop(): Element?
@@ -54,4 +56,5 @@ fun main() {
         println("Popped: $poppedElement")
     }
     println(stack)
+
 }
